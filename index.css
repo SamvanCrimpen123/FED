@@ -22,3 +22,21 @@ header{
     height: auto;
   }
 
+  .miniheader{
+
+  }
+
+
+  .miniheader {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .miniheader li {
+    display: inline-block;
+  }
+
+  .miniheader li p {
+    margin: 0;
+  }
