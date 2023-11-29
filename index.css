@@ -1,5 +1,24 @@
 header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color:#0f1111;
     color:white;
-    align-items: ;
 }
+.horizontal-images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.horizontal-images img {
+    width: 20px;
+    height: auto;
+    margin: 0 10px;
+  }
+  
+  .search-bar img {
+    width: 200px; /* Set the width of the search bar image */
+    height: auto;
+  }
+
