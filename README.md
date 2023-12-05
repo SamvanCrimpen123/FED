@@ -59,6 +59,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  ik kwam er meteen achter dat het lastig was om met de screenreader een product te vinden op de manier die ik normaal zou toepassen.
+  er was wel een optie om een soort versimpelde versie van de website te bekijken, maar daarna kwam ik niet verder dan de header en werd er meteen van uitgegaan dat ik wat wilde zoeken. 
+  <img src="readme-images/skip .png >
+
+  toen kwam ik er achter dat je de screenreader kon bedienen door een aantal toetsen (ik dacht dat ik alleen de pijltjestoetsen kon gebruiker maar ook de cijfers en enter toens kunnen gebruikt worden.). hierdoor werd het al snel een stukje makkelijker.
 
 </details>
 
