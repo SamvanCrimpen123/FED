@@ -2,14 +2,14 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color:#0f1111;
+    background-color:#00453e;
     color:white;
 }
 footer{
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #0f1111;
+  background-color: #00453e;
   color:white;
 
 }
@@ -31,7 +31,7 @@ footer{
   }
 
   .miniheader {
-    background-color:#0f1111 ;
+    background-color:#00453e ;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -49,6 +49,7 @@ footer{
   .miniheader li p {
     margin: 0;
   }
+
 
   footer article{
     display: flex;
