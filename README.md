@@ -65,6 +65,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   toen kwam ik er achter dat je de screenreader kon bedienen door een aantal toetsen (ik dacht dat ik alleen de pijltjestoetsen kon gebruiker maar ook de cijfers en enter toens kunnen gebruikt worden.). hierdoor werd het al snel een stukje makkelijker.
 
+
+  WCAG CHECKLIST
+  ik heb de checker toegepast op amazon.com
+  <img src="readme-images/foutmeldingen.png >
+  
+  kleurenblindheid
+
+  ook de opdracht met kleurcontrast was erg leuk om te zien.
+<img src="readme-images/kluerentest>
+
+high contrast
+<img src="readme-images/kleurcontrast>
+
+contrastthema's
+<img src="readme-images/contrastthema's>
+
 </details>
 
 
