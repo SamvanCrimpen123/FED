@@ -36,6 +36,9 @@ footer{
     padding: 0;
     margin: 0;
     display: flex;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    gap: 10px; /* Adjust spacing between images */
+    padding: 10px 0; /* Optional padding */
   }
   
   .miniheader li {
@@ -48,8 +51,10 @@ footer{
 
   .miniheader li p {
     margin: 0;
+    max-width: 100%; /* Ensure images don't exceed container width */
+    height: auto; /* Maintain aspect ratio */
+    flex: 0 0 auto; /* Maintain original image size */
   }
-
 
   .recommended {
     display: flex;
