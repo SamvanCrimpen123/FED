@@ -73,13 +73,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   kleurenblindheid
 
   ook de opdracht met kleurcontrast was erg leuk om te zien.
-<img src="readme-images/kluerentest>
+<img src="readme-images/kluerentest.png>
 
 high contrast
-<img src="readme-images/kleurcontrast>
+<img src="readme-images/kleurcontrast.png>
 
 contrastthema's
-<img src="readme-images/contrastthema's>
+<img src="readme-images/contrastthema's.png>
 
 </details>
 
@@ -97,7 +97,7 @@ contrastthema's
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+<img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -174,6 +174,15 @@ contrastthema's
 ## Toegankelijkheidstest 2/2 (week 4)
 
 <details>
+i heb mijn screenreader test op de zelfde manier gedaan als de vorige keer.
+het lukt mij niet om de screenreader soepel te laten werken, ik kon redelijk soepel werken door middel van de pijltjestoetsen maar hierdoor ging de "narrator" elke letter voorlezen.
+door te refreshen kon ik toch nog alle kopjes los voor laten lezen.
+<img src="readme-images/screenreader .png>
+
+Ondanks dat mijn website verre van af is, heb ik mijn code laten validaten.
+<img src="readme-images/test2 alt= "afbeelding van de foutenmeldingen van test 2"> 
+
+
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
