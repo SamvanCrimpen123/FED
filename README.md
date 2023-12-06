@@ -201,6 +201,8 @@ Ondanks dat mijn website verre van af is, heb ik mijn code laten validaten.
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  mijn wesbite scrollde met een soort lag. ik heb dit overlegd met de docent, en toen hij de website opende op zijn laptop werkte alles prima. ik heb dit probleem maar zo gelaten, omdat eht op een ander device wel goed werkte.
+  verder heb ik gewerkt aan de layout, alle afbeeldingen op de goede plek krijgen en te zorgen dat ik kon scrollen door het menu
 
 
   ### Agenda voor meeting
