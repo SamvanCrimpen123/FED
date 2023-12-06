@@ -263,8 +263,8 @@ Ondanks dat mijn website verre van af is, heb ik mijn code laten validaten.
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
+  1. https://stackoverflow.com/questions/5638239/why-does-my-website-scroll-slowly-and-why-are-its-hover-effects-laggy-how-can
+  2. ChatGpT (dit heeft mij heel erg geholpen met de basis weer te begrijpen.)
   3. ...
 
 </details>
