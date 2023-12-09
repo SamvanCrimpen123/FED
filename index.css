@@ -26,7 +26,7 @@ footer{
   }
   
   .search-bar img {
-    width: 200px; /* Set the width of the search bar image */
+    width: 200px; 
     height: auto;
   }
 
@@ -38,36 +38,34 @@ footer{
     display: flex;
     overflow-x: auto; /* Enable horizontal scrolling */
     gap: 10px; /* Adjust spacing between images */
-    padding: 10px 0; /* Optional padding */
+    padding: 10px 0;
   }
   
   .miniheader li {
     color: white;
-    flex: 0 0 auto; /* Maintain fixed size for each item */
-    width: 100px; /* Adjust the width as needed */
-    margin-right: 3px; /* Add spacing between items */
+    flex: 0 0 auto; /* fixed size voor elk item */
+    width: 100px; 
+    margin-right: 3px; /* spacing tussen items */
     margin-left:2px ;
   }
 
   .miniheader li p {
     margin: 0;
-    max-width: 100%; /* Ensure images don't exceed container width */
-    height: auto; /* Maintain aspect ratio */
-    flex: 0 0 auto; /* Maintain original image size */
+    max-width: 100%; 
+    height: auto; 
+    flex: 0 0 auto;
   }
 
   .recommended {
     display: flex;
-    overflow-x: auto; /* Enable horizontal scrolling */
-    scroll-behavior: smooth; /* Smooth scrolling (optional) */
-    gap: 10px; /* Adjust spacing between images */
-    padding: 10px 0; /* Optional padding */
+    overflow-x: auto; /* horizontal scrolling */
+    gap: 10px;
 }
 
 .recommended img {
-    max-width: 100%; /* Ensure images don't exceed container width */
-    height: auto; /* Maintain aspect ratio */
-    flex: 0 0 auto; /* Maintain original image size */
+    max-width: 100%; 
+    height: auto; /*aspect ratio */
+    flex: 0 0 auto; /*original image size */
 }
 
   footer article{
