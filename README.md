@@ -265,6 +265,7 @@ Ondanks dat mijn website verre van af is, heb ik mijn code laten validaten.
 
   1. https://stackoverflow.com/questions/5638239/why-does-my-website-scroll-slowly-and-why-are-its-hover-effects-laggy-how-can
   2. ChatGpT (dit heeft mij heel erg geholpen met de basis weer te begrijpen.)
-  3. ...
+  3. https://blog.hubspot.com/website/change-font-in-html#:~:text=Let's%20get%20started.-,How%20to%20Change%20Font%20Type%20in%20HTML,%2C%20button%2C%20or%20span%20tag.
+  4.
 
 </details>

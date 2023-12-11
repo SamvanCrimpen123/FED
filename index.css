@@ -1,3 +1,10 @@
+
+body{
+  font-family: sans-serif;
+}
+
+
+
 header{
     display: flex;
     flex-direction: column;
@@ -66,7 +73,32 @@ footer{
     max-width: 100%; 
     height: auto; /*aspect ratio */
     flex: 0 0 auto; /*original image size */
+    margin-right: 5px;
+    border: 2px;
+    border-radius: 20px;
 }
+
+.internationalshopping{
+  display: flex; /* Use flexbox for layout */
+  align-items: center; /* Align items vertically in the center */
+  justify-content: space-between; /* Distribute space between items */
+  flex-wrap: wrap; /* Wrap items to the next line if necessary */
+}
+.internationalshopping{
+  margin-right: 10px; /* Add space between images */
+}
+
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+}
+
+.grid-container img{
+  border-radius: 20px;
+}
+
 
   footer article{
     display: flex;
@@ -81,10 +113,5 @@ footer{
     list-style: none;
   }
 
-  .grid-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
 
 
