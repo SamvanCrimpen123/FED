@@ -6,10 +6,6 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
-
-
-
-
 ## Jij
 
 <details open>
@@ -22,7 +18,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  Blauw
 
   #### Je focus:
-  Surface plne
+  Surface plane
  
 </details>
 
@@ -38,11 +34,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je opdracht:
   https://www.amazon.com/
   
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/breakdown schetsen.jpg.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
@@ -91,7 +85,7 @@ contrastthema's
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschets_nieuwscherm.jpg.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
