@@ -219,6 +219,27 @@ Ondanks dat mijn website verre van af is, heb ik mijn code laten validaten.
 
 </details>
 
+## Eindgesprek (week 5)
+
+<details>
+  <summary>uitwerken voor eindgesprek</summary>
+
+  ### Je uitkomst - karakteristiek screenshots:
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+
+
+  ### Dit ging goed/Heb ik geleerd: 
+  Korte omschrijving met plaatjes
+
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+
+
+  ### Dit was lastig/Is niet gelukt:
+  Korte omschrijving met plaatjes
+
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+</details>
+
 
 ## Eindgesprek (week 5)
 
@@ -240,6 +261,7 @@ Ondanks dat mijn website verre van af is, heb ik mijn code laten validaten.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
+
 
 
 
