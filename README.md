@@ -244,7 +244,7 @@ Ondanks dat mijn website verre van af is, heb ik mijn code laten validaten.
 ## Eindgesprek (week 5)
 
 <details>
-  <summary>uitwerken voor eindgesprek</summary>
+  <summary>uitwerken voor eindgespre</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
