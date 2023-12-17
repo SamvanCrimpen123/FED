@@ -12,7 +12,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sam van Crimpe
+  Sam van Crimpen
 
   #### Je startniveau:
  Blauw
@@ -35,7 +35,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.amazon.com/
   
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  hier de naam van de pagina hierhierhier  
   <img src="readme-images/breakdown schetsen.jpg.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
