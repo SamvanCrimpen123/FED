@@ -12,7 +12,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sam van Crimpen
+  Sam van Crimpe
 
   #### Je startniveau:
  Blauw
