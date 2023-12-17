@@ -219,6 +219,7 @@ Ondanks dat mijn website verre van af is, heb ik mijn code laten validaten.
 
 </details>
 
+
 ## Eindgesprek (week 5)
 
 <details>
@@ -239,6 +240,7 @@ Ondanks dat mijn website verre van af is, heb ik mijn code laten validaten.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
+
 
 
 
