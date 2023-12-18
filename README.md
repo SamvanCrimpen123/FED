@@ -251,13 +251,12 @@ Ondanks dat mijn website verre van af is, heb ik mijn code laten validaten.
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  ik was nog niet ver genoeg om een voldoende te krijgen(volledig begrijpelijk) dus ik ben na dit eingesprek verder gaan werken. ik heb gekeken naar oplossingen, en ahad eindelijk de rust in mijn hoofd om verder te werken, om (hopelijk) alsnog een voldoende te halen.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+<img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Het was mij in eerste instantie niet gelukt om alles af te krijgen, op de semantisch correcte manier. Door een goed gesprek met de docent wist ik hoe ik dit op moest lossen.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
