@@ -244,10 +244,10 @@ Ondanks dat mijn website verre van af is, heb ik mijn code laten validaten.
 ## Eindgesprek (week 5)
 
 <details>
-  <summary>uitwerken voor eindgespre</summary>
+  <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/uitkomst.jpg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
