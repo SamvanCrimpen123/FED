@@ -261,8 +261,24 @@ Ondanks dat mijn website verre van af is, heb ik mijn code laten validaten.
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
+## Herkansing (week 6)
+<details>
+<summary>uitwerken voor herkansing</summary>
+
+ ### Je uitkomst - karakteristiek screenshots:
+  <img src="readme-images/uitkomst.jpg" width="375px" alt="uitomst opdracht 1">
 
 
+  ### Dit ging goed/Heb ik geleerd: 
+  ik was nog niet ver genoeg om een voldoende te krijgen(volledig begrijpelijk) dus ik ben na dit eingesprek verder gaan werken. ik heb gekeken naar oplossingen, en ahad eindelijk de rust in mijn hoofd om verder te werken, om (hopelijk) alsnog een voldoende te halen.
+
+<img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+
+  ### Dit was lastig/Is niet gelukt:
+  Het was mij in eerste instantie niet gelukt om alles af te krijgen, op de semantisch correcte manier. Door een goed gesprek met de docent wist ik hoe ik dit op moest lossen.
+
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+</details>
 
 ## Bronnenlijst
 
