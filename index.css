@@ -10,6 +10,67 @@ header{
     background-color:#00453e;
     color:white;
 }
+.search-bar img {
+  width: 200px; 
+  height: auto;
+}
+
+header {
+  font-size: 0.8rem;
+  line-height: 12px;
+  padding: 1em;
+}
+
+
+header ul:nth-child(1) {
+  display: flex;
+  padding: 0;
+}
+
+header ul:nth-child(1) li {
+  list-style: none;
+}
+
+header ul:nth-child(1) a {
+	color: #fff;
+	text-decoration: none;
+  font-size: 0.6rem;
+  align-self: center;
+}
+
+header ul:nth-child(1) a img {
+  height: 3em;
+}
+
+/* miniheader omzetten naar js*/
+.miniheader {
+  background-color:#00453e ;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  overflow-x: auto; /* Enable horizontal scrolling */
+  gap: 10px; /* Adjust spacing between images */
+  padding: 10px 0;
+}
+
+.miniheader li {
+  color: white;
+  flex: 0 0 auto; /* fixed size voor elk item */
+  width: 100px; 
+  margin-right: 3px; /* spacing tussen items */
+  margin-left:2px ;
+}
+
+.miniheader li p {
+  margin: 0;
+  max-width: 100%; 
+  height: auto; 
+  flex: 0 0 auto;
+}
+
+/* miniheader omzetten naar js*/
+
 footer{
   display: flex;
   flex-direction: column;
@@ -18,48 +79,7 @@ footer{
   color:white;
 
 }
-.nav{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 10px;
-}
-.nav img {
-    width: 20px;
-    height: auto;
-    margin: 0 10px;
-  }
-  
-  .search-bar img {
-    width: 200px; 
-    height: auto;
-  }
 
-  .miniheader {
-    background-color:#00453e ;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    overflow-x: auto; /* Enable horizontal scrolling */
-    gap: 10px; /* Adjust spacing between images */
-    padding: 10px 0;
-  }
-  
-  .miniheader li {
-    color: white;
-    flex: 0 0 auto; /* fixed size voor elk item */
-    width: 100px; 
-    margin-right: 3px; /* spacing tussen items */
-    margin-left:2px ;
-  }
-
-  .miniheader li p {
-    margin: 0;
-    max-width: 100%; 
-    height: auto; 
-    flex: 0 0 auto;
-  }
 
   .recommended {
     display: flex;

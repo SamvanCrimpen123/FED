@@ -13,46 +13,99 @@
 </head>
 
 <body style="margin: 0;">
+
+<!--DIV MAG NIET, VERMIJDT PIXELS, OMZETTEN NAAR EM--> 
+<!--a er omheen om klikbaar te maken maak er een ul van want het is een lijstje met linkjes. klik hier om.. nav is gwn een nav zonder class. -->
 <main>
-	<header>
-		<nav>
-			<!--DIV MAG NIET
-			VERMIJDT PIXELS, OMZETTEN NAAR EM--> 
-			<!--uitleg: Ik heb hier een class gebruikt, zodat ik de images op de juiste manier kon plaatsen.
-			a er omheen om klikbaar te maken
-		maak er een ul van want het is een lijstje met linkjes. klik hier om.. nav is gwn een nav zonder class. --> 
-           <div class="nav">
-				<a href=""></a><img src="./images/menu.png" alt="IMAGE VAN MENU SIDE BAR">
-				<img src="./images/amazon_logo_1.png" alt="IMAGE VAN LOGO">
-				<img src="./images/profiel.png" alt="IMAGE VAN PROFIELPLAATJE">
-				<img src="./images/winkelwagentje.png" alt="IMAGE VAN winkelmandje">
-			</div>
+	<header> <!--aangepast-->
+		<ul>
+			<li>
+				<a href="index.html"><img src="images/amazon_logo_1.png" alt="klik hier voor main pagina Amazon"></a>
+			</li>
+			<li>
+				<a href="#"><img src="images/profiel.png" alt="klik hier om naar je profiel te gaan"></a>
+			</li>
 
-			<!--uitleg: deze afbeelding heb ik een aparte class gegeven, zodat ik deze los van de andere afbeeldingen kon verplaatsen.--> 
-			<div class="vertical-images">
-				<img src="./images/zoekbalk.png" alt="zoekbalk">
-			</div>
+			<li>
+				<a href="#"><img src="images/winkelwagentje.png" alt="klik hier om naar je winkelmandje te gaan"></a>
+			</li>
+
+			<button aria-hidden="false">
+				<img src="images/menu.png" alt="klik hier om naar het menu te gaan">menu
+			</button>
+		</ul><!--aangepast-->
+
+		<nav> <!-- menu --> <!--aangepast-->
+			<article aria-hidden="true">
+				<button aria-hidden="false">
+					<img src="images/menu.png" alt="klik hier om menu te sluiten">
+				</button>
+
+				<p>your account</p>
+			</article>
+			<ul aria-hidden="true">
+				<li>
+					<a href="cadeaubox.html">amazon Home<img src="images/menu.png" alt=""></a>
+				</li>
+				<li>
+					<a href="#">trending<img src="images/menu.png" alt=""></a>
+					<a href="#">movers and shakers<img src="images/menu.png" alt=""></a>
+				</li>
+				<li>
+					<a href="#">top departments<img src="images/menu.png" alt=""></a>
+				</li>
+			</ul><!-- menu -->
+
+		 <form>
+			<input type="text" placeholder="Ik ben op zoek naar...">
+		 </form>
+
+		 <!--miniheader-->
+		 <ul class="miniheader">
+			<li>
+				<a href="tweedepagina.html">deals</a>
+			</li>
+			<li>
+				<a href="tweedepagina.html">amazon basics</a>
+			</li>
+			<li>
+				<a href="tweedepagina.html">video</a>
+			</li>
+			<li>
+				<a href="tweedepagina.html">buy again</a>
+			</li>
+			<li>
+				<a href="tweedepagina.html">best sellers</a>
+			</li>
+			<li>
+				<a href="tweedepagina.html">Livestreams</a>
+			</li>
+			<li>
+				<a href="tweedepagina.html">Books</a>
+			</li>
+			<li>
+				<a href="tweedepagina.html">Music</a>
+			</li>
+			<li>
+				<a href="tweedepagina.html">Home</a>
+			</li>
+			<li>
+				<a href="tweedepagina.html">new releases</a>
+			</li>
+			<li>
+				<a href="tweedepagina.html">pc</a>
+			</li>
+			<li>
+				<a href="tweedepagina.html">health and household</a>
+			</li>
+			<li>
+				<a href="tweedepagina.html">gift cards</a>
+			</li>
+		 </ul>
 		</nav>
-
-		
 	</header>
 	<!--CLASSES MAG NIET--> 
-	<ul class="miniheader">
-		<a href="tweedepagina.html">deals</a>
-		<li>Deals</li>
-		<li>Amazon basics</li>
-		<li>video</li>
-		<li>buy again</li>
-		<li>Best sellers</li>
-		<li>Livestreams</li>
-		<li>Books</li>
-		<li>Music</li>
-		<li>Home</li>
-		<li>new releases</li>
-		<li>PC</li>
-		<li>Health and household </li>
-		<li>Gift cards</li>
-	</ul>
+
 
 	<!---->
 	<section>
