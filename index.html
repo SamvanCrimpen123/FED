@@ -17,51 +17,27 @@
 <!--DIV MAG NIET, VERMIJDT PIXELS, OMZETTEN NAAR EM--> 
 <!--a er omheen om klikbaar te maken maak er een ul van want het is een lijstje met linkjes. klik hier om.. nav is gwn een nav zonder class. -->
 <main>
-	<header> <!--aangepast-->
-		<ul>
-			<li>
-				<a href="index.html"><img src="images/amazon_logo_1.png" alt="klik hier voor main pagina Amazon"></a>
-			</li>
-			<li>
-				<a href="#"><img src="images/profiel.png" alt="klik hier om naar je profiel te gaan"></a>
-			</li>
+ <header>
+	<ul> <!--aangepast-->
+		<li>   <!--foldable hamburgermenu-->
+			<img src="images/menu.png" alt="klik hier om naar het menu te gaan">
+		</li>   <!--foldable hamburgermenu-->
+		<li>
+			<a href="index.html"><img src="images/amazon_logo_1.png" alt="klik hier voor main pagina Amazon"></a>
+		</li>
+		<li>
+			<a href="tweedepagina.html"><img src="images/profiel.png" alt="klik hier om naar je profiel te gaan"></a>
+		</li>
 
-			<li>
-				<a href="#"><img src="images/winkelwagentje.png" alt="klik hier om naar je winkelmandje te gaan"></a>
-			</li>
-
-			<button aria-hidden="false">
-				<img src="images/menu.png" alt="klik hier om naar het menu te gaan">menu
-			</button>
-		</ul><!--aangepast-->
-
-		<nav> <!-- menu --> <!--aangepast-->
-			<article aria-hidden="true">
-				<button aria-hidden="false">
-					<img src="images/menu.png" alt="klik hier om menu te sluiten">
-				</button>
-
-				<p>your account</p>
-			</article>
-			<ul aria-hidden="true">
-				<li>
-					<a href="cadeaubox.html">amazon Home<img src="images/menu.png" alt=""></a>
-				</li>
-				<li>
-					<a href="#">trending<img src="images/menu.png" alt=""></a>
-					<a href="#">movers and shakers<img src="images/menu.png" alt=""></a>
-				</li>
-				<li>
-					<a href="#">top departments<img src="images/menu.png" alt=""></a>
-				</li>
-			</ul><!-- menu -->
-
-		 <form>
-			<input type="text" placeholder="Ik ben op zoek naar...">
-		 </form>
-
-		 <!--miniheader-->
-		 <ul class="miniheader">
+		<li>
+			<a href="tweedepagina.html"><img src="images/winkelwagentje.png" alt="klik hier om naar je winkelmandje te gaan"></a>
+		</li>
+	</ul><!--aangepast-->
+	<form>
+		<input type="text" placeholder="Ik ben op zoek naar...">
+	</form>
+	<nav>
+		<ul class="miniheader">
 			<li>
 				<a href="tweedepagina.html">deals</a>
 			</li>
@@ -101,60 +77,65 @@
 			<li>
 				<a href="tweedepagina.html">gift cards</a>
 			</li>
-		 </ul>
-		</nav>
-	</header>
-	<!--CLASSES MAG NIET--> 
+		  </ul>
+	</nav>
+ </header>
 
-
-	<!---->
-	<section>
-		<img src="./images/image1.png" alt="Kerstcadeaus op een roze achtergrond met de tekst: delightful gifts for everyone">
-	
 	<!-- mag een UL zijn, refencencen door UL Recommended, class mag wel -->
-	</section>
-		<section class="recommended">
-			<img src="images/recommended1.png" alt="een bruine laars met de tekst: aanbevolen deal voor jou.">
-			<img src="images/recommended2.png" alt="een flatlay- foto van een groene pan, met een felgekelurde rood en roze achtergrond met de tekst deals voor meest geliefde geschenken.">
-			<img src="images/recommended3.png" alt="een kartonnen doos dichtgeplakt met oranje tape met amazon logo's er op.">
-			<img src="images/recommended4.png" alt="een zwarte pc, met regenboog-gekleurde ventilator. de achtergrond is roze, de linkerhoek is goud met glitters.">
-			<img src="images/recommended5.png" alt="een knuffeltje van een penguin en een beer, in een openstaand geschenkdoosje met een gouden strik er op. de achtergrond is goud met glitters.">
-		</section>
-
-		<!--field set, H-group.
-		semantisch correcte manier"googlen
-	CSS TRICKS!! je moet verder gaan dan "het klopt"-->
-		
-		<p>Discover Amazon international shopping</p>
-     <section class="internationalshopping">
+	
+	<!--field set, H-group.semantisch correcte manier"googlen CSS TRICKS!! je moet verder gaan dan "het klopt"-->
+	<ul><!--class "recommended"-->
+		<li>
+			<a href="tweedepagina.html"><img src="images/recommended1.png" alt="een bruine laars met de tekst: aanbevolen deal voor jou"></a>
+		</li>
+		<li>
+			<a href="tweedepagina.html"><img src="images/recommended2.png" alt="een flatlay- foto van een groene pan, met een felgekelurde rood en roze achtergrond met de tekst deals voor meest geliefde geschenken."></a>
+		</li>
+		<li>
+			<a href="tweedepagina.html"><img src="images/recommended3.png" alt="een kartonnen doos dichtgeplakt met oranje tape met amazon logo's er op."></a>
+		</li>
+		<li>
+			<a href="tweedepagina.html"><img src="images/recommended4.png" alt="een zwarte pc, met regenboog-gekleurde ventilator. de achtergrond is roze, de linkerhoek is goud met glitters."></a>
+		</li>
+		<li>
+			<a href="tweedepagina.html"><img src="images/recommended5.png" alt="een knuffeltje van een penguin en een beer, in een openstaand geschenkdoosje met een gouden strik er op. de achtergrond is goud met glitters."></a>
+		</li>
+	</ul>
+     
+     <section ><!--class:"internationalshopping"-->
+	<a href="tweedepagina.html">ontdek amazon internationaal winkelen</a>
 	 <img src="images/Localdelivery.png" alt="">
 	 <img src="images/freereturns.png" alt="">
 	 <img src="images/selectlanguage.png" alt="">
 	 <img src="images/selectcurrency.png" alt="">
-      </section>
+      </section><!--class:"internationalshopping"-->
 
+	  <section> <!--class: "grid container"-->
+		<ul>
+			<li>
+				<a href="tweedepagina.html"><img src="images/shopwomens.png" alt=""></a>
+				<p>Shop women's</p>
+			</li>
+			<li>
+				<a href="tweedepagina.html"><img src="images/shopmens.png" alt=""></a>
+				<p>shop mens</p>
+			</li>
+			<li>
+				<a href="tweedepagina.html"><img src="images/shopkids.png" alt=""></a>
+				<p>Shop kids</p>
+			</li>
+			<li>
+				<a href="tweedepagina.html"><img src="images/shopmoreshoes.png" alt=""></a>
+				<p>Shop more shoes</p>
+			</li>
+		</ul>
+	  </section>
 <!--maak heir een secion van, dit kan ook al een container zijn.maak hier ul en li van. -->
-<div class="grid-container">
-	 <section div>
-		<img src="images/shopwomens.png" alt="">
-		<p>Shop women's</p>
-	</section>
+
 	<section>
-		<img src="images/shopmens.png" alt="">
-		<p>shop mens</p>
-	</section>
-	<section>
-		<img src="images/shopkids.png" alt="">
-		<p>Shop kids</p>
-	</section>
-	<section>
-		<img src="images/shopmoreshoes.png" alt="">
-		<p>shop more shoes</p>
-	</section>
-	<section>
-		<p></p>
-		<p></p>
-		<img src="images/playdough.png" alt="">
+		<a href="tweedepagina.html">winkel meer</a>
+		<p>koop deals</p>
+		<a href="tweedepagina.html"><img src="images/playdough.png" alt=""></a>
 		<a href="https://www.amazon.com">see all deals</a>
 		<img src="images/toysngames.png" alt="">
 	</section>

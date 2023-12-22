@@ -3,6 +3,15 @@ body{
   font-family: sans-serif;
 }
 
+nav{
+  position: fixed;
+  top: 0;
+  left: 0;
+  translate: 100% 100%;
+  transition: 0.3s;
+}
+
+
 header{
     display: flex;
     flex-direction: column;
@@ -42,34 +51,34 @@ header ul:nth-child(1) a img {
   height: 3em;
 }
 
-/* miniheader omzetten naar js*/
-.miniheader {
-  background-color:#00453e ;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
+/* miniheader */
+/* CSS for enabling horizontal scrolling for .miniheader */
+header .miniheader {
   overflow-x: auto; /* Enable horizontal scrolling */
-  gap: 10px; /* Adjust spacing between images */
-  padding: 10px 0;
+  white-space: nowrap; /* Prevent items from wrapping to a new line */
+  display: flex; /* Use flexbox for horizontal arrangement */
+  gap: 10px; /* Adjust spacing between items */
+  padding: 10px 0; /* Padding for better visual spacing */
 }
 
-.miniheader li {
-  color: white;
-  flex: 0 0 auto; /* fixed size voor elk item */
-  width: 100px; 
-  margin-right: 3px; /* spacing tussen items */
-  margin-left:2px ;
+header .miniheader li {
+  display: inline-block; /* Make list items display in a row */
+  margin-right: 3px; /* Adjust spacing between items */
 }
 
-.miniheader li p {
-  margin: 0;
-  max-width: 100%; 
-  height: auto; 
-  flex: 0 0 auto;
+header .miniheader li a {
+  text-decoration: none; /* Remove underlines from links */
+  padding: 5px 10px; /* Add padding to the anchor tags */
+  background-color: #00453e; /* Background color */
+  border-radius: 5px; /* Optional: Add border-radius for aesthetics */
+  color: white; /* Text color */
 }
 
-/* miniheader omzetten naar js*/
+header .miniheader li a:hover {
+  /* Optional: Define styles for hover state */
+  background-color: #00695c;
+}
+
 
 footer{
   display: flex;
