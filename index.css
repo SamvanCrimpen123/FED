@@ -11,17 +11,12 @@ nav{
   transition: 0.3s;
 }
 
-
 header{
     display: flex;
     flex-direction: column;
     align-items: center;
     background-color:#00453e;
     color:white;
-}
-.search-bar img {
-  width: 200px; 
-  height: auto;
 }
 
 header {
@@ -34,9 +29,6 @@ header {
 header ul:nth-child(1) {
   display: flex;
   padding: 0;
-}
-
-header ul:nth-child(1) li {
   list-style: none;
 }
 
@@ -44,41 +36,38 @@ header ul:nth-child(1) a {
 	color: #fff;
 	text-decoration: none;
   font-size: 0.6rem;
-  align-self: center;
+ 
 }
 
 header ul:nth-child(1) a img {
   height: 3em;
 }
 
-/* miniheader */
-/* CSS for enabling horizontal scrolling for .miniheader */
-header .miniheader {
-  overflow-x: auto; /* Enable horizontal scrolling */
+/* miniheader /
+/ CSS for enabling horizontal scrolling for .miniheader*/
+nav.miniheader {
+  overflow-x: auto; /*Enable horizontal scrolling*/
   white-space: nowrap; /* Prevent items from wrapping to a new line */
-  display: flex; /* Use flexbox for horizontal arrangement */
-  gap: 10px; /* Adjust spacing between items */
-  padding: 10px 0; /* Padding for better visual spacing */
+  display: flex; /*Use flexbox for horizontal arrangement*/
+  gap: 10px; /*Adjust spacing between items*/
+  padding: 10px 0; /*Padding for better visual spacing*/
 }
 
-header .miniheader li {
-  display: inline-block; /* Make list items display in a row */
-  margin-right: 3px; /* Adjust spacing between items */
+nav.miniheader ul li {
+  display: inline-block; /*Make list items display in a row*/
+  margin-right: 3px; /*Adjust spacing between items*/
+  list-style: none;
 }
 
-header .miniheader li a {
-  text-decoration: none; /* Remove underlines from links */
-  padding: 5px 10px; /* Add padding to the anchor tags */
-  background-color: #00453e; /* Background color */
-  border-radius: 5px; /* Optional: Add border-radius for aesthetics */
-  color: white; /* Text color */
+nav.miniheader li a {
+  text-decoration: none; /*Remove underlines from links*/
+  padding: 5px 10px; /*Add padding to the anchor tags*/
+  background-color: #00453e; /*Background color*/
+  border-radius: 5px; /*Optional: Add border-radius for aesthetics*/
+  color: white; / Text color */
+  font-size : 0.6rem;
+  align-self: center;
 }
-
-header .miniheader li a:hover {
-  /* Optional: Define styles for hover state */
-  background-color: #00695c;
-}
-
 
 footer{
   display: flex;
@@ -89,14 +78,13 @@ footer{
 
 }
 
-
-  .recommended {
+  .recommended{
     display: flex;
     overflow-x: auto; /* horizontal scrolling */
     gap: 10px;
 }
 
-.recommended img {
+  .recommended img {
     max-width: 100%; 
     height: auto; /*aspect ratio */
     flex: 0 0 auto; /*original image size */
